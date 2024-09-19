@@ -1,2 +1,2 @@
-# hospital-mangement
-Hospital Management System Developed and maintained a comprehensive hospital management system, enhancing patient record accuracy and streamlining administrative processes.
+# hospital-management-system
+hospital management system project using python
